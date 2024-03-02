@@ -11,3 +11,19 @@ git init
 git remote add origin 
 "https link"
 git remote -v
+// create branches and work on them
+git checkout -b <-branch name->
+// to open branch
+git  checkout main
+// delete branch
+git branch -d branchname
+
+// to merge branch
+// check main diffrences
+git diff main
+// to merge  through terminal
+git merge branchname
+// if you do through github then after merge use pull command
+git pull origin main
+// to get git log
+git log
