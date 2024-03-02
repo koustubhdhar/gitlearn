@@ -1,0 +1,7 @@
+git clone "https link"
+git status
+ls 
+ls -a
+git add file name 
+git add.
+git push origi main
